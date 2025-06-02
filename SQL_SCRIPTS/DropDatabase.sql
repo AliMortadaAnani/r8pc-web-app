@@ -1,0 +1,1 @@
+Drop database R8PC_DATABASE;
