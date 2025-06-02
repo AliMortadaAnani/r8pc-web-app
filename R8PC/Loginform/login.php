@@ -27,12 +27,7 @@
                 <img  class="icons" src="images\lock.png" alt="lock photo">
             </div>
 
-            <div class="remember-forget">
-                <label>
-                    <input type="checkbox" name="remember"> Remember me
-                </label>
-                
-            </div>
+           
 
             <button type="submit" class="btn" name="signin">
                 Login
