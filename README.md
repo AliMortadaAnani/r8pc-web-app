@@ -1,4 +1,4 @@
-# R8PC - Your PC Companion 💻🛠️
+  # R8PC - Your PC Companion 💻🛠️
 
 **Done By:**  
 - Ali Mortada Anani 👨‍💻  
@@ -31,7 +31,7 @@
 ---
 
 ## System Requirements ⚙️
-
+- **Web Server:**(XAMPP, WAMP, or similar) to host the application  
 - **Web Browser:** Capable of running PHP projects 🌐  
 - **Database:** MySQL 🗄️  
 - **Code Editor:** Any code editor for potential customization ✍️
