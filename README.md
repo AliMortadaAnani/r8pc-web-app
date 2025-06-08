@@ -76,7 +76,7 @@
 ### Access the Application
 
 Open your browser and go to:  
-`http://localhost/r8pc-php-project/R8PC/2.php`
+`http://localhost/r8pc-php-project/R8PC/index.php`
 
 ---
 
