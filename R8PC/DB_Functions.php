@@ -3,6 +3,7 @@
 $password='627300';
 function connectServer($host,$log,$pass,$mess)
 { 
+	// tests
 	$dbc=@mysqli_connect($host,$log,$pass) 
 	  or die("connection error:".@mysqli_errno($dbc).
 	         ": ".@mysqli_error($dbc)
