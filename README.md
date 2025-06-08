@@ -52,12 +52,12 @@
 - Create Database and Tables:  
   1. Open `DB_Functions.php` and set your MySQL password.  
   2. Navigate to:  
-     `http://localhost/r8pc-php-project/R8PC/createdb.php`  
+     `http://localhost/r8pc-web-app-main/R8PC/createdb.php`  
   This will create the database, tables, and initial data.
 
 - Drop Database and Tables:  
   Navigate to:  
-  `http://localhost/r8pc-php-project/R8PC/deletedb.php`
+  `http://localhost/r8pc-web-app-main/R8PC/deletedb.php`
 
 **Option 2: Using SQL Scripts**
 
@@ -76,7 +76,7 @@
 ### Access the Application
 
 Open your browser and go to:  
-`http://localhost/r8pc-php-project/R8PC/index.php`
+`http://localhost/r8pc-web-app-main/R8PC/index.php`
 
 ---
 
