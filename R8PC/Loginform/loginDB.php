@@ -22,7 +22,7 @@ if ($row = mysqli_fetch_assoc($result)) {
     if (password_verify($password, $row['password'])) {
         session_start();
         $_SESSION['username'] = $row['username'];
-        header("Location: ../2.php");
+        header("Location: ../index.php");
         exit(); 
     } else {
        

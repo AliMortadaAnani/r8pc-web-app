@@ -116,6 +116,6 @@
         }
         ?>
     </div>
-    <a href="2.php">Go to Home</a>
+    <a href="index.php">Go to Home</a>
 </body>
 </html>
